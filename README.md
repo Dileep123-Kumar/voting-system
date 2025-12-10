@@ -22,5 +22,3 @@ After exiting the loop, the program compares the total votes and announces the w
 📌 Purpose:  
 A beginner-friendly project to understand loops, conditionals, and user input in Python.
 
-
-Let me know if you want this in a PDF or ZIP format too.
